@@ -58,7 +58,7 @@ ffmpeg.exe
 go build -o ytbaixar.exe main.go
 ```
 
-4. Estrutura do projeto:
+4. Estrutura do projeto apos baixadas as dependencias e compilado:
 ```bash
 ytbaixar/
 ├── main.go
